@@ -15,7 +15,7 @@ In my free time, I'm all about two things:
 
 ## Connect with Me
 Let's chat, collaborate, and explore the tech universe together!
-- LinkedIn: www.linkedin.com/in/fabian-papenfuss
-- Website/Blog: https://focus.fpsystems.de
+- LinkedIn: https://www.linkedin.com/in/fabian-papenfuss
+- Blog: https://vdchub.de
 
 Feel free to reach out, and let's make the tech world a better place, one code commit at a time! 🚀
